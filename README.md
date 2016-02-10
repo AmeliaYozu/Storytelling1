@@ -1,7 +1,14 @@
-# StreamingDataStart
+# Storytelling1
 Storytelling coursework1
 
-I chose Twitter Streaming as my incoming source, each data represent a Tweet sent by a person. Each individual message can fall into 3 parts:
+I chose Twitter Streaming as my incoming source, each data represent a Tweet sent by a person. 
+
+Summary: 
+From each individual message, you can know about: someone just posted a Tweet, with the content of this Tweet, at what time, what place, probably with or related with who; which trend(hashtag) the Tweet follows. (Also can sense the mood of the poster by reading the words or using a sentiment analysis tool.).
+
+Following is detailed interpretion of each message captured in the streaming:  
+
+Each individual message can fall into 3 parts:
 
 <b>1. Tweet Information</b>
 
