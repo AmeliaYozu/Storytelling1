@@ -1,13 +1,14 @@
 from TwitterAPI import TwitterAPI
 import json
 import time
+import nltk
 from sys import stdout
 from sys import stdin
 
-CONSUMER_KEY = '8aIDWdGQuFgC9oypr2yozz6KY'
-CONSUMER_SECRET = 'tn3FJdxt22QrHgim07mmaWOxFhNCtj7BB3pAjNVEw9aVZyECWC'
-ACCESS_TOKEN_KEY = '4883184502-tPuS4S7rC0gEqpGq08EFtkUo1HYTZbskez2YtYu'
-ACCESS_TOKEN_SECRET = '0xS7drlYHYb32ASOCEeeVo8Qx405RAreGkv0S2ARNsVLz'
+CONSUMER_KEY = ''
+CONSUMER_SECRET = ''
+ACCESS_TOKEN_KEY = ''
+ACCESS_TOKEN_SECRET = ''
 
 
 api = TwitterAPI(CONSUMER_KEY,CONSUMER_SECRET,ACCESS_TOKEN_KEY,ACCESS_TOKEN_SECRET)
