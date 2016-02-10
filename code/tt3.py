@@ -4,10 +4,10 @@ import time
 from sys import stdout
 from sys import stdin
 
-CONSUMER_KEY = '8aIDWdGQuFgC9oypr2yozz6KY'
-CONSUMER_SECRET = 'tn3FJdxt22QrHgim07mmaWOxFhNCtj7BB3pAjNVEw9aVZyECWC'
-ACCESS_TOKEN_KEY = '4883184502-tPuS4S7rC0gEqpGq08EFtkUo1HYTZbskez2YtYu'
-ACCESS_TOKEN_SECRET = '0xS7drlYHYb32ASOCEeeVo8Qx405RAreGkv0S2ARNsVLz'
+CONSUMER_KEY = ''
+CONSUMER_SECRET = ''
+ACCESS_TOKEN_KEY = ''
+ACCESS_TOKEN_SECRET = ''
 
 
 api = TwitterAPI(CONSUMER_KEY,CONSUMER_SECRET,ACCESS_TOKEN_KEY,ACCESS_TOKEN_SECRET)
@@ -25,7 +25,7 @@ for item in r:
         	attime = time.ctime(t)
         	place = item['place']['full_name']+", "+item['place']['country']
         	co = item['coordinates']['coordinates'] #array
-        	print username+ ": " +text+"\n"+attime+"\n"+place+"\n"+str(co)
+        	print username+ ": " +text+"\n"+attime+"\n"+place+"\n(Coordinates: "+str(co)+")\n"
        		#print json.dumps(item, indent=1)
        		stdout.flush()
        		print "##################################################"
