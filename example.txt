@@ -1,0 +1,137 @@
+{
+"contributors": null, 
+"truncated": false, 
+"text": "I'm at @RedLobster in Hicksville, NY https://t.co/6xWjTrYCXa", 
+"is_quote_status": false, 
+"in_reply_to_status_id": null, 
+"id": 696145090327220224, 
+"favorite_count": 0, 
+"source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>", 
+"retweeted": false, 
+"coordinates": {
+"type": "Point", 
+"coordinates": [
+-73.52765454, 
+40.77712828
+]
+}, 
+"timestamp_ms": "1454808897941", 
+"entities": {
+"user_mentions": [
+{
+"id": 6018732, 
+"indices": [
+7, 
+18
+], 
+"id_str": "6018732", 
+"screen_name": "redlobster", 
+"name": "Red Lobster"
+}
+], 
+"symbols": [], 
+"hashtags": [], 
+"urls": [
+{
+"url": "https://t.co/6xWjTrYCXa", 
+"indices": [
+37, 
+60
+], 
+"expanded_url": "https://www.swarmapp.com/c/kldqQdM5YCf", 
+"display_url": "swarmapp.com/c/kldqQdM5YCf"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "696145090327220224", 
+"retweet_count": 0, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"user": {
+"follow_request_sent": null, 
+"profile_use_background_image": true, 
+"default_profile_image": false, 
+"id": 246633733, 
+"verified": false, 
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/656989892921171968/wrkQ3OOr_normal.jpg", 
+"profile_sidebar_fill_color": "E5507E", 
+"profile_text_color": "362720", 
+"followers_count": 136, 
+"profile_sidebar_border_color": "CC3366", 
+"id_str": "246633733", 
+"profile_background_color": "FF6699", 
+"listed_count": 5, 
+"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif", 
+"utc_offset": -28800, 
+"statuses_count": 5001, 
+"description": "Just a girl trying to make a name for herself in this big world of ours. Look out for me promoting mental health awareness and the stigmas attached to them.", 
+"friends_count": 90, 
+"location": "Queens", 
+"profile_link_color": "B40B43", 
+"profile_image_url": "http://pbs.twimg.com/profile_images/656989892921171968/wrkQ3OOr_normal.jpg", 
+"following": null, 
+"geo_enabled": true, 
+"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif", 
+"name": "Nicole Jeremiah", 
+"lang": "en", 
+"profile_background_tile": true, 
+"favourites_count": 28, 
+"screen_name": "Linamerie", 
+"notifications": null, 
+"url": null, 
+"created_at": "Thu Feb 03 04:35:50 +0000 2011", 
+"contributors_enabled": false, 
+"time_zone": "Pacific Time (US & Canada)", 
+"protected": false, 
+"default_profile": false, 
+"is_translator": false
+}, 
+"geo": {
+"type": "Point", 
+"coordinates": [
+40.77712828, 
+-73.52765454
+]
+}, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": false, 
+"lang": "en", 
+"created_at": "Sun Feb 07 01:34:57 +0000 2016", 
+"filter_level": "low", 
+"in_reply_to_status_id_str": null, 
+
+"place": {
+"full_name": "Hicksville, NY", 
+"url": "https://api.twitter.com/1.1/geo/id/48b5e9defad76941.json", 
+"country": "United States", 
+"place_type": "city", 
+"bounding_box": {
+"type": "Polygon", 
+"coordinates": [
+[
+[
+-73.560512, 
+40.743142
+], 
+[
+-73.560512, 
+40.793139
+], 
+[
+-73.499673, 
+40.793139
+], 
+[
+-73.499673, 
+40.743142
+]
+]
+]
+}, 
+"country_code": "US", 
+"attributes": {}, 
+"id": "48b5e9defad76941", 
+"name": "Hicksville"
+}
+}
